@@ -1,5 +1,8 @@
 alias v=nvim
 alias g=git
+
+alias e=$EDITOR
+alias p=$PAGER
 # alias s=seshie
 alias t=smart_tmux
 
