@@ -1,4 +1,5 @@
 alias v=nvim
+alias g=git
 # alias s=seshie
 alias t=smart_tmux
 
@@ -11,6 +12,12 @@ smart_tmux() {
     tmux -f ~/.config/tmux/tmux.conf
   fi
 }
+
+alias gd="git diff"
+alias ga="git add"
+alias gc="git commit"
+alias gs="git status"
+alias gp="git push"
 
 alias ls="ls --color=auto"
 alias ll="ls -lA"
