@@ -18,9 +18,19 @@ smart_tmux() {
 
 alias gd="git diff"
 alias ga="git add"
+alias gr="git restore"
 alias gc="git commit"
 alias gs="git status"
 alias gp="git push"
+alias gi="git init"
+
+alias gmv="git mv"
+alias grm="git rm"
+alias gsm="git submodule"
+alias gcl="git clone"
+
+alias gaa="git add ."
+alias grr="git restore ."
 
 alias ls="ls --color=auto"
 alias ll="ls -lA"
