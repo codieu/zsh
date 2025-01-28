@@ -23,6 +23,7 @@ alias gc="git commit"
 alias gs="git status"
 alias gp="git push"
 alias gi="git init"
+alias gl="git log"
 
 alias gmv="git mv"
 alias grm="git rm"
