@@ -9,4 +9,6 @@ source $ZDOTDIR/alias.zsh
 source $ZDOTDIR/path.zsh
 # source $ZDOTDIR/completion.zsh
 
+source $ZDOTDIR/rose-pine-tty/dist/rose-pine-moon.sh
+
 hyfetch
